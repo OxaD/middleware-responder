@@ -31,6 +31,6 @@
     "should": "^4.0.4"
   },
   "dependencies": {
-    "lodash": "^2.4.1"
+    "lodash": "*"
   }
 }
